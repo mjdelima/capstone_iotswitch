@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "777907020971",
+    "firebase_url": "https://iotoutlet-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "iotoutlet",
+    "storage_bucket": "iotoutlet.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:777907020971:android:7c454fbcc24944f60bc3ee",
+        "android_client_info": {
+          "package_name": "com.cardinal.iotswitch"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "777907020971-t3179e7mtd3k4rjsg8ljflmf8rj0e4pa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAohT93GgUCTyEq1FmXjCOXFV_hQksfhw4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "777907020971-t3179e7mtd3k4rjsg8ljflmf8rj0e4pa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
